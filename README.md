@@ -3,6 +3,21 @@
 Welcome to the **CHE101L General Chemistry I Lab** repository!  
 This repository is dedicated to organizing and documenting all materials, resources, and updates related to the General Chemistry I Laboratory course.  
 
+[![License: CC BY‑NC 4.0](https://img.shields.io/badge/License‑CC%20BY‑NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
+## 📁 Repository Contents
+
+This repository is organized into the following folders:
+
+- **lab manuals** – Detailed instructions and guides for each lab session.  
+- **lab report helpers** – Templates, data tables, or tools to assist in writing lab reports.  
+- **lab reports** – Submitted reports for experiments conducted during the course.  
+- **others** – Supplementary materials, references, or miscellaneous files.  
+- **resources** – Additional readings, datasets, or links relevant to the course.  
+- **slides and books** – Lecture slide decks, textbook excerpts, or reference chapters.
+
 ---
 
 ## 📌 Course Information
@@ -20,15 +35,14 @@ This repository is dedicated to organizing and documenting all materials, resour
 
 ## 🎯 Course Description
 
-The **General Chemistry Lab Component (CHE101L)** is designed to complement the lecture part of General Chemistry (CHE101).  
-It provides hands-on experiments that cover essential areas of chemistry, allowing students to:
+The **General Chemistry Lab Component (CHE101L)** complements the lecture part of General Chemistry (CHE101), offering hands-on experiments to help students:
 
 - Develop basic laboratory techniques.  
 - Explore chemical principles through **guided inquiry experiments**.  
-- Strengthen conceptual understanding by connecting practical experiments with theoretical knowledge.  
-- Demonstrate results, draw molecular models, and analyze data scientifically.  
+- Connect practical experiments with theoretical knowledge.  
+- Demonstrate results, draw molecular models, and analyze data scientifically.
 
-📌 **Credit:** 1 unit
+**Credit:** 1 unit
 
 ---
 
@@ -37,18 +51,18 @@ It provides hands-on experiments that cover essential areas of chemistry, allowi
 1. Measurements and Acid–Base Classification  
 2. Chemistry Model Kit System: Chemical Bonding & Molecular Structures  
 3. Dissolution Reactions: Heats of Dissociation  
-4. Determination of the Concentration of an Acid *(two parts)*  
+4. Determination of the Concentration of an Acid *(two parts)*
 
 ---
 
 ## 📖 Learning Outcomes
 
-By the end of this course, students will be able to:
+By the end of the course, students will be able to:
 
 - Perform guided inquiry experiments.  
 - Collect, analyze, and report scientific data.  
-- Demonstrate chemistry concepts at atomic and molecular levels.  
-- Relate laboratory experiments to real-world chemistry principles.  
+- Demonstrate chemical concepts at atomic and molecular levels.  
+- Relate lab experiments to real-world principles.
 
 ---
 
@@ -66,10 +80,10 @@ By the end of this course, students will be able to:
 
 ## 📚 Class Rules
 
-- Bring the following to every class: **Notebook, Calculator, Periodic Table, Textbook**.  
-- Make-up labs are allowed only for excused absences with proper approval.  
-- Respect others in class – avoid disruptive behavior.  
-- Follow the [NSU Student Code of Conduct](http://www.northsouth.edu/student-code-of-conduct.html).  
+- Bring: **Notebook, Calculator, Periodic Table, Textbook**.  
+- Make-up labs only for excused absences with approval.  
+- Maintain respectful behavior in class.  
+- Follow the [NSU Student Code of Conduct](http://www.northsouth.edu/student-code-of-conduct.html).
 
 ---
 
@@ -81,21 +95,32 @@ By the end of this course, students will be able to:
 - ✅ Project Work  
 - ✅ Problem Solving  
 
-**Teaching Aids:** Multi-media, OHP, Board & Marker  
+**Teaching Aids:** Multi‑media, OHP, Board & Marker
 
 ---
 
 ## 👨‍🏫 Instructor Details
 
 - **Name:** Dr. Mohammed Kabir Uddin [MKUn]  
-- **Position:** Associate Professor   
-- **Phone:** (+880) 2-55668200 Ext. 6257  
-- **E-mail:** mohammed.uddin11@northsouth.edu 
+- **Position:** Associate Professor  
+- **Phone:** (+880) 2‑55668200 Ext. 6257  
+- **E‑mail:** mohammed.uddin11@northsouth.edu
 
 ---
 
 ## ⚠️ Disclaimer
-The instructor reserves the right to make necessary changes to the syllabus and grading policies to best accommodate the interests of the class.  
+
+The instructor reserves the right to make necessary changes to the syllabus and grading policies to best accommodate the interests of the class.
 
 ---
 
+## 📜 License
+
+[![License: CC BY‑NC 4.0](https://img.shields.io/badge/License‑CC%20BY‑NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This repository and its contents are licensed under a  
+[Creative Commons Attribution‑NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+© 2025 Mosroor Mofiz Arman. Commercial use requires prior written permission.  
+
+For commercial use requests, please contact me via my [GitHub profile](https://github.com/mosroormofizarman).
