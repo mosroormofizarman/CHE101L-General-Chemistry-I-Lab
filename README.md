@@ -101,7 +101,7 @@ By the end of the course, students will be able to:
 
 ## 👨‍🏫 Instructor Details
 
-- **Name:** Dr. Mohammed Kabir Uddin [MKUn]  
+- **Name:** [Dr. Mohammed Kabir Uddin [MKUn]](https://www.northsouth.edu/faculty-members/shls/biochemistry-microbiology/dr.-mohammed-kabir-uddin.html)
 - **Position:** Associate Professor  
 - **Phone:** (+880) 2‑55668200 Ext. 6257  
 - **E‑mail:** mohammed.uddin11@northsouth.edu
