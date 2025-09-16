@@ -24,7 +24,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** CHE101L  
 - **Course Title:** General Chemistry Lab  
-- **Faculty:** Dr. Mohammed Kabir Uddin [MKUn]  
+- **Faculty:** [Dr. Mohammed Kabir Uddin [MKUn]](https://www.northsouth.edu/faculty-members/shls/biochemistry-microbiology/dr.-mohammed-kabir-uddin.html)
 - **Department:** Biochemistry & Microbiology  
 - **Program:** Undergraduate  
 - **Semester:** **SUMMER 2024**  
